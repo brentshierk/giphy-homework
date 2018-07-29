@@ -1,0 +1,25 @@
+#gifs-appear-here{
+    margin-right: 48px;
+    margin-left: -59px;
+    margin-top: 10px;
+    line-height: 0;
+    -webkit-column-count: 3;
+    -webkit-column-gap:   10px;
+    -moz-column-count:    3;
+    -moz-column-gap:      10px;
+    column-count:         3;
+    column-gap:           10px;
+}
+#gifs-appear-here{
+    
+    width: 100% !important;
+    height: auto !important;
+    margin-top: 10px;
+    opacity: 1;
+  }
+#buttonHold{
+  text-align: center;
+}
+.submit-fourm{
+  text-align: center;
+}
